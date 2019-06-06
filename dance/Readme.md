@@ -9,5 +9,6 @@ referecne:
 코드 잠깐 소개
 
 1. preprocess - video 
-2. model description with training part - upload 예정
-3. normalization - upload 예정 -> 아직 코드 안짬...ㅋ
+2. model description with training part - upload 완료
+3. normalization - upload 완료
+4. test - upload 예정
