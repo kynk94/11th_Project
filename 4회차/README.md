@@ -15,6 +15,8 @@ https://github.com/1adrianb/face-alignment
 ## 2. 할 일
 6월 9일까지 각자 목표를 정하고 해오기  
 * 표정별 데이터 수집  
+단일 사진을 의미하는 것 아님  
+변화하는 시퀀스를 가져와야 함  
 * Data Augmentation (i.e. 어플 사용)  
 * Landmark 뽑기  
 * Everybody Dance Now를 얼굴용으로 변경  
