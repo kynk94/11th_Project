@@ -5,13 +5,16 @@ Live Photo 만들기 - 확정
 ## 2. 공부해야 할 것
 * Cycle GAN  
 https://github.com/junyanz/CycleGAN  
+Paper https://arxiv.org/abs/1703.10593  
 * Everybody Dance Now  
+Paper https://arxiv.org/abs/1808.07371  
 <a href="https://www.youtube.com/watch?v=PCBTZh41Ris" target="_blank">
 <img src="https://user-images.githubusercontent.com/41245985/59018925-fbe8af80-8881-11e9-8df7-d203aeead8fa.png"></img>
 </a>  
 
 https://github.com/CUHKSZ-TQL/EverybodyDanceNow_reproduce_pytorch  
 * Few-Shot Adversarial Learning of Realistic Neural Talking Head Models  
+Paper https://arxiv.org/abs/1905.08233
 <a href="https://www.youtube.com/watch?v=p1b5aiTrGzY" target="_blank">
 <img src="https://user-images.githubusercontent.com/41245985/59018614-3e5dbc80-8881-11e9-8565-149c792e3f4e.png"></img>
 </a>  
