@@ -15,3 +15,9 @@ referecne:
 3. normalization - upload 완료
 4. test - upload 예정  
 5. branch 실험중
+
+* cocoapi 설치방법  
+first:  
+conda install git  
+then:  
+pip3 install "git+https://github.com/philferriere/cocoapi.git#egg=pycocotools&subdirectory=PythonAPI"
