@@ -24,5 +24,12 @@ Pose Estimation git : <a href="https://github.com/ZheC/Realtime_Multi-Person_Pos
 
 
 ## Result  
+### Everybody Dance Now + 3D Face Alignment  
 <img src="https://user-images.githubusercontent.com/41245985/68157845-ce6b7380-ff91-11e9-8ff5-f84e1d97384b.gif">  
 <img src="https://user-images.githubusercontent.com/41245985/68157859-d4f9eb00-ff91-11e9-8f25-eca5c8380158.gif">  
+
+### Everybody Dance Now + Few Shot  
+<img src="https://user-images.githubusercontent.com/41245985/68159464-28216d00-ff95-11e9-91f2-f0f4f5da6efd.gif">  
+
+#### Fine Tuning  
+<img src="https://user-images.githubusercontent.com/41245985/68158955-260ade80-ff94-11e9-9e57-ff72d17116ab.gif">  
